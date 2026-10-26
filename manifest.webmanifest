@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "My Personal WL Tool Kit",
+  "short_name": "WL Toolkit",
+  "description": "Offline-first Personal WL Tool Kit",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fc",
+  "theme_color": "#003057",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
